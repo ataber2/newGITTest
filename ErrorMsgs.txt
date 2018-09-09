@@ -1,0 +1,8 @@
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	CS1703	Multiple assemblies with equivalent identity have been imported: '
+
+C:\Users\at091\source\repos\https-github.com-ataber2-BeaconProject\packages\System.Runtime.InteropServices.WindowsRuntime.4.0.1\lib\netstandard1.3\System.Runtime.InteropServices.WindowsRuntime.dll' and '
+
+        C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ReferenceAssemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.InteropServices.WindowsRuntime.dll'. 
+
+Remove one of the duplicate references.	BeaconProtoType.Android	C:\Users\at091\source\repos\https-github.com-ataber2-BeaconProject\BeaconProtoType\BeaconProtoType.Android\CSC	1	Active
